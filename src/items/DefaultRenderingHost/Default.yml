@@ -9,10 +9,10 @@ SharedFields:
   Value: "http://rendering:3000/api/editing/config"
 - ID: "e32c1801-79b3-4fc1-a9c4-3c6e6c2968ae"
   Hint: ServerSideRenderingEngineApplicationUrl
-  Value: "http://rendering:3000"
+  Value: "http://localhost:3000"
 - ID: "fc76919b-0d7c-4732-865d-2af795fb38a4"
   Hint: ServerSideRenderingEngineEndpointUrl
-  Value: "http://rendering:3000/api/editing/render"
+  Value: "http://localhost:3000/api/editing/render"
 Languages:
 - Language: "de-DE"
   Versions:
